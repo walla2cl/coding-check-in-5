@@ -3,9 +3,14 @@ font-family: "Georgia", serif;
 color: blue;
 }
 
-.recipe-name {
+recipe-name {
 font-family: "Helvetica";
 color: maroon;
+}
+
+p {
+font-family: "Arial";
+color: gray;
 }
 
 /* your CSS goes into this file. For example:
