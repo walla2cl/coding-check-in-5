@@ -1,3 +1,13 @@
+#main-section {
+font-family: "Georgia", serif;
+color: blue;
+}
+
+.recipe-name {
+font-family: "Helvetica";
+color: maroon;
+}
+
 /* your CSS goes into this file. For example:
 
 p {
