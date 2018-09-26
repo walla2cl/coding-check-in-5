@@ -1,17 +1,29 @@
 #main-section {
-font-family: "Georgia", serif;
-color: blue;
+  font-family: "Georgia", serif;
+  font-weight: bold;
+  color: blue;
 }
 
 recipe-name {
-font-family: "Helvetica";
-color: maroon;
+  font-family: "Helvetica";
+  font-style: italic;
+  color: maroon;
+}
+
+h1 {
+  font-family: "Monaco";
+  font-style: italic;
 }
 
 p {
-font-family: "Arial";
-color: gray;
+  font-family: "Arial";
+  color: gray;
 }
+
+ul {
+  list-style-type: square;
+}
+
 
 /* your CSS goes into this file. For example:
 
